@@ -1,2 +1,2 @@
-# Anish186
+# Anish Vadlamani
 I am a student who likes to explore programming and has love for AI and Robotics
